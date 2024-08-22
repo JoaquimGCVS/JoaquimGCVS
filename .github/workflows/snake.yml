@@ -1,32 +1,40 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Run at 5:00 AM every day
-    - cron: "0 5 * * *"
-  workflow_dispatch:
+  schedule: 
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
+      - name: Checkout do repositório
         uses: actions/checkout@v2
 
-      - name: Generate the snake animation
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Gerar Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          output: dist/snake.svg
+          github_user_name: "JoaquimGCVS" 
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Add generated snake animation to the repository
+      - name: Adicionar animação gerada ao repositório
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/snake.svg
-          git commit -m "Generate snake animation"
+          git config --global user.name "JoaquimGCVS"
+          git config --global user.email "jgui9292@gmail.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Adiciona animação da cobra"
           git push
 
-      - name: Deploy the animation
+      - name: Implantar animação
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
