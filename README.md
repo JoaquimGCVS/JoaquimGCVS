@@ -18,6 +18,11 @@
 <a href="https://instagram.com/joaquimvilela_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/JoaquimGCVS/JoaquimGCVS/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
+
 
 
