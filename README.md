@@ -2,7 +2,7 @@
 - 🌎 I’m an 18-year-old Brazilian.
 - 📚 I’m currently pursuing a degree in Software Engineering at the Pontifical Catholic University of Minas Gerais.
 - ⚡ I’am consistently seeking to gain more experience in software development.
-- 👌  You can find me on social media at [ joaquimvilela_ ].
+- 👌  You can find me on social media at [ joaquimvilela_].
 
 ## Languages 📌📈
 <div style="display: inline_block">
