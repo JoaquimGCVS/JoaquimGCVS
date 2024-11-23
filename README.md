@@ -1,3 +1,4 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 ## Hi there 👋 
 - 🌎 I’m an 18-year-old Brazilian.
 - 📚 I’m currently pursuing a degree in Software Engineering at the Pontifical Catholic University of Minas Gerais.
@@ -27,11 +28,17 @@
   <a href="https://instagram.com/joaquimvilela_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoaquimGCVS/JoaquimGCVS/output/snake.svg" alt="Snake animation" width="100%" height="auto">
+</p>
 
 
-<img src="https://raw.githubusercontent.com/JoaquimGCVS/JoaquimGCVS/output/snake.svg" alt="Snake animation" />
+##
 
-###
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIxemtjdDh3d2VnNTBtdjh1MHlneGw3MWllM25hcWd0dzVxbmM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp" alt="GIF do Giphy" width="100%" height="auto">
+</p>
+
 
 
 
