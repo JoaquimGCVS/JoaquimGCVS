@@ -13,7 +13,7 @@
 - ⚡ I’am consistently seeking to gain more experience in software development.
 - 👌  You can find me on social media at [ joaquimvilela_].
 
-## Languages & Technologies <img src="https://media0.giphy.com/media/QXwtfadqo7wbfmT46H/200.webp?cid=ecf05e47a2yl9rh956an58ltq8hwuljf3xwm3ug7p8jv5188&ep=v1_gifs&rid=200.webp&ct=g" width="25" height="25"><img src="https://media1.giphy.com/media/fByehYIrOIzO8XolJK/giphy.webp?cid=ecf05e47a2yl9rh956an58ltq8hwuljf3xwm3ug7p8jv5188&ep=v1_gifs&rid=giphy.webp&ct=g" width="25" height="25">
+## Languages & Technologies <img src="https://media1.giphy.com/media/fByehYIrOIzO8XolJK/giphy.webp?cid=ecf05e47a2yl9rh956an58ltq8hwuljf3xwm3ug7p8jv5188&ep=v1_gifs&rid=giphy.webp&ct=g" width="25" height="25">
 
 <div style="display: inline_block">
   <img align="center" alt="Joaquim.Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -32,8 +32,7 @@
   
 </div>
 
-## IDE`s <img src="https://media2.giphy.com/media/CVgswLRgV3nqw/giphy.webp?cid=ecf05e47mi1vouu8i8digi5to9vg2tawcr57x2r52r6kzrv5&ep=v1_gifs&rid=giphy.webp&ct=g" width="25" height="25"> <img src="https://media3.giphy.com/media/l3mZsZK6buIJA3Zv2/giphy.webp?cid=ecf05e47mi1vouu8i8digi5to9vg2tawcr57x2r52r6kzrv5&ep=v1_gifs&rid=giphy.webp&ct=g" width="25" height="25">
-
+## IDE`s <img src="https://media2.giphy.com/media/CVgswLRgV3nqw/giphy.webp?cid=ecf05e47mi1vouu8i8digi5to9vg2tawcr57x2r52r6kzrv5&ep=v1_gifs&rid=giphy.webp&ct=g" width="25" height="25"> 
 <div style="display: inline-block">
   <img align="center" alt="Joaquim.VSC" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
   <img align="center" alt="Joaquim.IntellJ" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
@@ -41,7 +40,7 @@
   <img align="center" alt="Joaquim.Replit" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />           
 </div>
 
-## Contact <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNoYzJqY2h3am4yeDFicTF4aGp3N2xzN2ozOWNxOXhsMHVpcjliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3D1CV0BCHXU6WA3rP/giphy.webp" width="25" height="25"> <img src="https://media0.giphy.com/media/DQBa3LLoueLKBgQDDh/giphy.webp?cid=ecf05e47yputuxivrmd57v1puv1r6lj21br9k9q0j19994mq&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="25" height="25">
+## Contact <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNoYzJqY2h3am4yeDFicTF4aGp3N2xzN2ozOWNxOXhsMHVpcjliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3D1CV0BCHXU6WA3rP/giphy.webp" width="25" height="25">
 
 
 <div class="contacts">
